@@ -1,7 +1,7 @@
 # Llama Recipes: The Official Llama Models Cookbook
 <!-- markdown-link-check-disable -->
 
-Welcome to the official cookbook for helping you get started with [inference](), [fine-tuning]() and [end-to-end use-cases]() of building with the Llama Model family.
+Welcome to the official repository for helping you get started with [inference](), [fine-tuning]() and [end-to-end use-cases]() of building with the Llama Model family.
 
 The examples cover the most popular community approaches, popular use-cases and the latest Llama 3.2 Vision and Llama 3.2 Text, in this repository. 
 
