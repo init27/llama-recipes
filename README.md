@@ -31,7 +31,3 @@ The examples cover the most popular community approaches, popular use-cases and 
 - [End to End Use Cases](https://github.com/init27/llama-recipes/tree/main/end-to-end-use-cases): As the name suggests, spanning various domains and applications
 - [Getting Started](https://github.com/init27/llama-recipes/tree/main/getting-started/): Reference for inferencing, fine-tuning and RAG examples
 - [Benchmarks](https://github.com/init27/llama-recipes/tree/main/benchmarks):
-
-
-## FAQ: 
-
