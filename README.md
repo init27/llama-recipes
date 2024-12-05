@@ -1,4 +1,4 @@
-# Llama Recipes: The Official Llama Models Cookbook
+# The Official Llama Models Cookbook
 <!-- markdown-link-check-disable -->
 
 Welcome to the official repository for helping you get started with [inference](https://github.com/init27/llama-recipes/tree/main/getting-started/inference), [fine-tuning](https://github.com/init27/llama-recipes/tree/main/getting-started/finetuning) and [end-to-end use-cases](https://github.com/init27/llama-recipes/tree/main/end-to-end-use-cases) of building with the Llama Model family.
